@@ -1,0 +1,10 @@
+{
+  "port": 5000,
+  "db_file_path": "db/blogs.db",
+  "uploads":"app_data/uploads",
+  "security": {
+    "name": "test",
+    "pwd": "123456"
+  },
+  "jwt_key": "111111111111111111"
+}
